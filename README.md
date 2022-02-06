@@ -1,5 +1,5 @@
 # Certificados
- Resolvi deixar aqui meus ertificados, ao longo dos anos o aprendizado acaba sendo contínuo.
+ Resolvi deixar aqui meus certificados, ao longo dos anos o aprendizado acaba sendo contínuo. E por este motivo fica impossível colocar tudo em uma folha de papel.
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=edufelizardo1.visitor-certificados)
  ![GitHub followers](https://img.shields.io/github/followers/edufelizardo1?style=social)
