@@ -1,9 +1,7 @@
 # Certificados
  Resolvi deixar aqui meus ertificados, ao longo dos anos o aprendizado acaba sendo contínuo.
 
- <!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=edufelizardo1.visitor-certificados)-->
- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=edufelizardo1.visitor-certificados)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=edufelizardo1.visitor-certificados)
  ![GitHub followers](https://img.shields.io/github/followers/edufelizardo1?style=social)
 
 
